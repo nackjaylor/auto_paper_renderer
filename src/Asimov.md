@@ -1,0 +1,4 @@
+---
+bibliography: Newton.bib
+nocite: "@*"
+---
